@@ -1,0 +1,14 @@
+# for x in range(3):
+#     print(x)
+# range(start,stop)
+# for x in range(100,105):
+#     print(x)
+# range(start,stop,step)
+# for x in range(3,33,3):
+#     print(x)
+# question
+# for x in range(20):
+#     if x%2==0:
+#         print(x,"even")
+#     else:
+#         print(x,"odd")
